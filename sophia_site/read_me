@@ -1,0 +1,5 @@
+--active the python3 enviroment--
+source ~/.virtualenvs/djangodev/bin/activate
+
+--deactivate python3 enviroment--
+deactivate
