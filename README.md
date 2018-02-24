@@ -1,7 +1,8 @@
 # django
 home django enviroment
 
-#########################################
+#########################
+
 CREATE A VIRTUAL ENVIRONMENT
 
 1) Install virtual environment using pip install virtualenv.
