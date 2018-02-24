@@ -1,5 +1,5 @@
 # django
-home django enviroment
+Home Django Enviroment (MAC)
 
 #########################
 
